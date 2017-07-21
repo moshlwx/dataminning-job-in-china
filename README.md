@@ -3,19 +3,39 @@ collections of the data minning or machine learning job information in china
 
 搜集了一些关于数据挖掘岗位的信息，方便找工作的朋友参考。
 
-**欢迎补充**
+**欢迎补充/指正**
 
-岗位目标：数据挖掘，机器学习，BI，推荐系统，搜索，CTR评估，医疗，解决方案提供方
+岗位目标：数据挖掘，机器学习，BI，推荐系统，搜索，CTR评估，医疗教育创新，解决方案提供方
 
 - 设有数据挖掘岗
-- 数据驱动公司或部门
+- 数据驱动的公司或部门
 - 数据挖掘岗位能够为公司创造价值
 
 分类
 1. 体量较大的互联网公司研究院或部门
-    - B,A,T,163(游戏，互联网，有道)，华为
-    - 小米，360，美团/大众点评，京东，电商，新浪，搜狐，携程，去哪儿
-    - 豆瓣，哔哩哔哩
+    - B
+    - A
+    - T
+    - 163
+        - 游戏
+        - 互联网
+        - 有道
+    - 华为
+
+1. 主流互联网公司
+    - 小米
+    - 360
+    - 美团/大众点评
+    - 京东
+    - 电商
+    - 新浪
+    - 搜狐
+    - 携程
+    - 去哪儿
+    
+1. 小众但印象不错
+    - 豆瓣
+    - 哔哩哔哩
 
 1. 数据为核心的互联网公司
     - 今日头条
@@ -27,13 +47,18 @@ collections of the data minning or machine learning job information in china
     - 摩拜
 
 1. 银行，金融公司 （证券 股市 征信）
-    - 平安 http://www.nlpjob.com/job/40338/
-    - 四大行
-1. 教育
-    - 新东方
-    - 好未来
-1. 医疗
-    - ...
+    - 平安银行（科技） http://www.nlpjob.com/job/40338/
+    - 四大行
+
+1. 传统行业数据岗位（研究院为宜）
+    - IT
+        - 联想北京研究院 http://www.nlpjob.com/job/40288/
+    - 教育
+        - 新东方
+        - 好未来
+    - 医疗
+        - ...
+
 1. 数据驱动创业公司
     - 知道创宇
     - 第四范式
@@ -43,5 +68,4 @@ collections of the data minning or machine learning job information in china
 1. 运营商研究院
 1. 研究所
 1. 政府部门
-1. 传统行业数据岗位（研究院为宜）
-    - 联想北京研究院 http://www.nlpjob.com/job/40288/
+
