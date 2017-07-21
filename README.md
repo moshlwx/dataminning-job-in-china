@@ -30,10 +30,10 @@ collections of the data minning or machine learning job information in china
     - 平安 http://www.nlpjob.com/job/40338/
     - 四大行
 1. 教育
-    - 新东方
-    - 好未来
+    - 新东方
+    - 好未来
 1. 医疗
-    - ...
+    - ...
 1. 数据驱动创业公司
     - 知道创宇
     - 第四范式
