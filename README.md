@@ -13,21 +13,22 @@ collections of the data minning or machine learning job information in china
 
 分类
 1. 体量较大的互联网公司研究院或部门
-    - B
-    - A
-    - T
-    - 163
+    - 百度
+    - 阿里
+    - 腾讯
+    - 网易
         - 游戏
         - 互联网
         - 有道
     - 华为
+    - 京东
 
 1. 主流互联网公司
     - 小米
     - 360
     - 美团/大众点评
-    - 京东
     - 电商
+        - 美丽联合（美丽说，蘑菇街）
     - 新浪
     - 搜狐
     - 携程
@@ -49,6 +50,8 @@ collections of the data minning or machine learning job information in china
 1. 银行，金融公司 （证券 股市 征信）
     - 平安银行（科技） http://www.nlpjob.com/job/40338/
     - 四大行
+    - 招商银行
+    - 银联
 
 1. 传统行业数据岗位（研究院为宜）
     - IT
